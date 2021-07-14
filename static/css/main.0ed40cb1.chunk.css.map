@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,KACE,6BAA+B,CAC/B,qBAAsB,CACvB,MAGC,eAAgB,CAChB,aAAc,CACd,iBAAkB","file":"main.0ed40cb1.chunk.css","sourcesContent":["html {\n  font-family: Roboto, sans-serif;\n  background-color: #eee;\n}\n\n#root {\n  max-width: 900px;\n  margin: 0 auto;\n  text-align: center;\n}\n"]}
